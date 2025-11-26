@@ -9,7 +9,6 @@ import { Routes, Route } from "react-router-dom";
 import Footer from "./components/Footer"
 import Flower from "./components/Flower"
 import mainPic from "./assets/mainPic.png"
-import slogan from "./assets/slogan.png"
 import picNails from "./assets/picNails.png"
 
 const App = () => {
