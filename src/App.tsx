@@ -8,7 +8,7 @@ import Help from "./help"
 import { Routes, Route } from "react-router-dom"; 
 import Footer from "./components/Footer"
 import Flower from "./components/Flower"
-import mainPic2 from "./assets/mainPic2.png"
+import mainPic from "./assets/mainPic.png"
 import slogan from "./assets/slogan.png"
 import picNails from "./assets/picNails.png"
 
@@ -22,10 +22,28 @@ const App = () => {
       <section className="relative max-w-7xl mx-auto px-6 py-10 pt-0 z-10">
         <div className="relative w-full">
           <img
-            src={mainPic2}
+            src={mainPic}
             alt="Hollywood Nails Main"
             className="w-full object-cover rounded-xl shadow-lg"
           />
+
+          {/* Overlay box */}
+          {/*<div className="absolute inset-0 flex items-center">
+            <div className="bg-white/40 rounded-xl ml-3 sm:ml-5 md:ml-7 lg:ml-10 xl:ml-10 mt-1 shadow-xl max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg xl:max-w-xl">
+              {/* backdrop-blur-md (like glass!) */}
+             {/* <img src={slogan} alt="Slogan" className="w-full h-auto text-center "></img>
+              <h2 className="font-bold text-sm sm:text-lg md:text-xl ml-5" style={{ fontFamily: 'Noto Serif, serif' }}>HOURS:</h2>
+               <p className="text-sm sm:text-lg md:text-xl ml-5" style={{ fontFamily: 'Noto Serif, serif' }}>Mon – Fri: 10:30am – 7:00pm</p>
+               <p className="text-sm sm:text-lg md:text-xl ml-5" style={{ fontFamily: 'Noto Serif, serif' }}>Sat: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 9:30am – 5:00pm</p>
+               <p className="text-sm sm:text-lg md:text-xl mb-2 sm:mb-2 md:mb-2 lg:mb-5 xl:mb-10 ml-5" style={{ fontFamily: 'Noto Serif, serif' }}>Sun: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Closed</p>
+                            <h2 className="font-bold mb-1 text-sm sm:text-lg md:text-xl ml-5" style={{ fontFamily: 'Noto Serif, serif' }}>CALL US TO BOOK AN APPOINTMENT:</h2>
+                            <p className="text-sm sm:text-lg md:text-xl mb-2 sm:mb-2 md:mb-2 lg:mb-5 xl:mb-10 ml-5" style={{ fontFamily: 'Noto Serif, serif' }}>(227) 277 - 9917</p>
+                            <h2 className="font-bold mb-1 text-sm sm:text-lg md:text-xl ml-5" style={{ fontFamily: 'Noto Serif, serif' }}>ADDRESS:</h2>
+                            <p className="text-sm sm:text-lg md:text-xl ml-5 mb-4" style={{ fontFamily: 'Noto Serif, serif' }}>
+                                5720 Deale Churchton Rd, Deale, MD 20751
+                            </p>
+            </div>
+          </div> */}
         </div>
       </section>
       <br></br>
@@ -45,8 +63,8 @@ const App = () => {
                     </div>
 
                     {/* Right column */}
-                    <div className="xs:w-70 sm:w-80 w-80 mx-auto md:mx-0">
-                        <div className="xs:w-70 sm:w-80 w-80">
+                    <div className="w-80 mx-auto md:mx-0">
+                        <div className="w-80">
                         <img src={picNails} alt="Picture of Nail"></img>
                         </div>
                     </div>
