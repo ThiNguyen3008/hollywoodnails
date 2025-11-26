@@ -334,7 +334,7 @@ const Services = () => {
 
                     {/* Right column */}
                     <div className="w-full md:w-2/3 pr-5">
-                      <h2 className="font-light mb-6 text-4xl text-yellow-700 content-center-safe text-center" style={{ fontFamily: 'Noto Serif, serif' }}>ADDITIONAL  SERVICES</h2>
+                      <h2 className="font-light mb-6 text-4xl text-yellow-700 content-center-safe text-center" style={{ fontFamily: 'Noto Serif, serif' }}>ADDITIONAL SERVICES</h2>
                       <div className="flex justify-between items-start gap-2">
                         <div className="flex-1">
                           <p className="text-lg font-bold" style={{ fontFamily: 'Noto Serif, serif' }}>Acrylic/Gel X/Builder Gel/Dip Powder Nail Removal</p>
@@ -498,7 +498,7 @@ const Services = () => {
 
                     {/* Right column */}
                     <div className="w-full md:w-2/3 pr-5">
-                      <h2 className="font-light mb-6 text-4xl text-yellow-700 content-center-safe text-center" style={{ fontFamily: 'Noto Serif, serif' }}>WAXING  SERVICES</h2>
+                      <h2 className="font-light mb-6 text-4xl text-yellow-700 content-center-safe text-center" style={{ fontFamily: 'Noto Serif, serif' }}>WAXING SERVICES</h2>
                       <div className="flex justify-between items-start gap-2">
                         <div className="flex-1">
                           <p className="text-lg font-bold" style={{ fontFamily: 'Noto Serif, serif' }}>Eyebrows</p>
