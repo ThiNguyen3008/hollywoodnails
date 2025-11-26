@@ -8,7 +8,7 @@ import Help from "./help"
 import { Routes, Route } from "react-router-dom"; 
 import Footer from "./components/Footer"
 import Flower from "./components/Flower"
-import mainPic from "./assets/mainPic.png"
+import mainPic2 from "./assets/mainPic2.png"
 import slogan from "./assets/slogan.png"
 import picNails from "./assets/picNails.png"
 
@@ -22,7 +22,7 @@ const App = () => {
       <section className="relative max-w-7xl mx-auto px-6 py-10 pt-0 z-10">
         <div className="relative w-full">
           <img
-            src={mainPic}
+            src={mainPic2}
             alt="Hollywood Nails Main"
             className="w-full object-cover rounded-xl shadow-lg"
           />
