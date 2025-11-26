@@ -31,7 +31,7 @@ const App = () => {
           <div className="absolute inset-0 flex items-center">
             <div className="bg-white/40 rounded-xl ml-3 sm:ml-5 md:ml-7 lg:ml-10 xl:ml-10 mt-1 shadow-xl max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg xl:max-w-xl">
               {/* backdrop-blur-md (like glass!) */}
-              <img src={slogan} alt="Slogan" className="w-full h-auto text-center "></img>
+              <img src={slogan} alt="Slogan" className="xs:w-70 sm:w-70 md:w-full lg:w-full xl:w-full h-auto text-center "></img>
               <h2 className="font-bold text-sm sm:text-lg md:text-xl ml-5" style={{ fontFamily: 'Noto Serif, serif' }}>HOURS:</h2>
                <p className="text-sm sm:text-lg md:text-xl ml-5" style={{ fontFamily: 'Noto Serif, serif' }}>Mon – Fri: 10:30am – 7:00pm</p>
                <p className="text-sm sm:text-lg md:text-xl ml-5" style={{ fontFamily: 'Noto Serif, serif' }}>Sat: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 9:30am – 5:00pm</p>
