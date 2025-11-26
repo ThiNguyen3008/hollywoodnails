@@ -63,8 +63,8 @@ const App = () => {
                     </div>
 
                     {/* Right column */}
-                    <div className="w-80 mx-auto md:mx-0">
-                        <div className="w-80">
+                    <div className="xs:w-70 sm:w-80 w-80 mx-auto md:mx-0">
+                        <div className="xs:w-70 sm:w-80 w-80">
                         <img src={picNails} alt="Picture of Nail"></img>
                         </div>
                     </div>
