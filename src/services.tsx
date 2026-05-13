@@ -6,7 +6,6 @@ import menu4 from "./assets/menu4.png"
 import menu5 from "./assets/menu5.png"
 import menu6 from "./assets/menu6.png"
 import menu7 from "./assets/menu7.png"
-import menu8 from "./assets/menu8.png"
 import menu9 from "./assets/menu9.png"
 
 const Services = () => {
