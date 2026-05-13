@@ -486,7 +486,7 @@ const Services = () => {
       <br></br>
       <br></br>
       <br></br>
-       {/*
+      {/*
       <section className="relative max-w-7xl mx-auto px-6 z-10">
             <div className="bg-gray-100 rounded-xl p-10 text-gray-800 shadow-sm">
                 <div className="flex flex-col md:flex-row gap-6 items-start">
