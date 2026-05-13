@@ -486,18 +486,18 @@ const Services = () => {
       <br></br>
       <br></br>
       <br></br>
-      {/*
+    
       <section className="relative max-w-7xl mx-auto px-6 z-10">
             <div className="bg-gray-100 rounded-xl p-10 text-gray-800 shadow-sm">
                 <div className="flex flex-col md:flex-row gap-6 items-start">
-                   //  Left column
+          
                     <div className="hidden md:block md:w-1/3 ">
                     <div className="w-full pt-50 flex flex-col items-center">
                         <img src={menu8} alt="Menu 8" className="w-70 h-auto pb-3"></img>
                         </div> 
                     </div>
             
-                    // Right column
+                  
                     <div className="w-full md:w-2/3 pr-5">
                       <h2 className="font-light mb-6 text-4xl text-yellow-700 content-center-safe text-center" style={{ fontFamily: 'Noto Serif, serif' }}>WAXING SERVICES</h2>
                       <div className="flex justify-between items-start gap-2">
@@ -643,7 +643,7 @@ const Services = () => {
       <br></br>
       <br></br>
       <br></br>
-       */}  
+       
       <section className="relative max-w-7xl mx-auto px-6 z-10">
             <div className="bg-gray-100 rounded-xl p-10 text-gray-800 shadow-sm">  
               <h2 className="font-light mb-6 text-4xl text-yellow-700 content-center-safe text-center" style={{ fontFamily: 'Noto Serif, serif' }}>GIFT CERTIFICATE</h2>
