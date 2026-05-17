@@ -1,4 +1,4 @@
-import stamp from "./assets/stamp.png"
+import stamp from "./assets/empty.png"
 const Specials = () => {
     return (
       <div className="bg-black min-h-screen">
