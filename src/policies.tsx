@@ -26,15 +26,15 @@ const Policies = () => {
                 <li>Please note, refunds or credits will not be issued if you simply change your mind. If you are unsatisfied with the quality of our work, we will redo the service at no additional cost, provided that you inform us immediately after your appointment.</li>
                 <li>Any repairs requested due to a change of color, shape, or damage caused by the client will incur a service fee.</li>
               </ul>
-              <p className="text-2xl font-bold" style={{ fontFamily: 'Noto Serif, serif' }}>Personal Items</p>
-              <ul className="list-disc pl-5 space-y-2 text-lg p-3" style={{ fontFamily: 'Noto Serif, serif' }}>
-                <li>We are not responsible for any lost or damaged personal belongings, including clothing and accessories, while you are on our premises.</li>
-              </ul>
               <p className="text-2xl font-bold" style={{ fontFamily: 'Noto Serif, serif' }}>Gift Certificates</p>
               <ul className="list-disc pl-5 space-y-2 text-lg p-3" style={{ fontFamily: 'Noto Serif, serif' }}>
                 <li>No cash advances or redemption are allowed.</li>
                 <li>Expired gift certificates cannot be redeemed.</li>
                 <li>Lost or stolen gift certificates cannot be replaced or refunded.</li>
+              </ul>
+              <p className="text-2xl font-bold" style={{ fontFamily: 'Noto Serif, serif' }}>Personal Items</p>
+              <ul className="list-disc pl-5 space-y-2 text-lg p-3" style={{ fontFamily: 'Noto Serif, serif' }}>
+                <li>We are not responsible for any lost or damaged personal belongings, including clothing and accessories, while you are on our premises.</li>
               </ul>
               <p className="text-2xl font-bold" style={{ fontFamily: 'Noto Serif, serif' }}>Right of Refusal</p>  
               <ul className="list-disc pl-5 space-y-2 text-lg p-3" style={{ fontFamily: 'Noto Serif, serif' }}>
