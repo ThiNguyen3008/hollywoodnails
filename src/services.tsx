@@ -372,15 +372,6 @@ const Services = () => {
                       <br></br>
                       <div className="flex justify-between items-start gap-2">
                         <div className="flex-1">
-                          <p className="text-lg font-bold" style={{ fontFamily: 'Noto Serif, serif' }}>Nail Design</p>
-                        </div>
-                        <div className="flex-none text-right font-bold">
-                          <p className="text-lg" style={{ fontFamily: 'Noto Serif, serif' }}>$5 & up</p>
-                        </div>
-                      </div>
-                      <br></br>
-                      <div className="flex justify-between items-start gap-2">
-                        <div className="flex-1">
                           <p className="text-lg font-bold" style={{ fontFamily: 'Noto Serif, serif' }}>Nail Buff Shine</p>
                         </div>
                         <div className="flex-none text-right font-bold">
@@ -415,6 +406,24 @@ const Services = () => {
                         </div>
                       </div>
                       <br></br>
+                       <div className="flex justify-between items-start gap-2">
+                        <div className="flex-1">
+                          <p className="text-lg font-bold" style={{ fontFamily: 'Noto Serif, serif' }}>Extra Massage (10 min)</p>
+                        </div>
+                        <div className="flex-none text-right font-bold">
+                          <p className="text-lg" style={{ fontFamily: 'Noto Serif, serif' }}>$15</p>
+                        </div>
+                      </div>
+                      <br></br>
+                      <div className="flex justify-between items-start gap-2">
+                        <div className="flex-1">
+                          <p className="text-lg font-bold" style={{ fontFamily: 'Noto Serif, serif' }}>Nail Design</p>
+                        </div>
+                        <div className="flex-none text-right font-bold">
+                          <p className="text-lg" style={{ fontFamily: 'Noto Serif, serif' }}>$5 & up</p>
+                        </div>
+                      </div>
+                      <br></br>
                       <div className="flex justify-between items-start gap-2">
                         <div className="flex-1">
                           <p className="text-lg font-bold" style={{ fontFamily: 'Noto Serif, serif' }}>Ombre Design</p>
@@ -439,15 +448,6 @@ const Services = () => {
                         </div>
                         <div className="flex-none text-right font-bold">
                           <p className="text-lg" style={{ fontFamily: 'Noto Serif, serif' }}>$15 & up</p>
-                        </div>
-                      </div>
-                      <br></br>
-                      <div className="flex justify-between items-start gap-2">
-                        <div className="flex-1">
-                          <p className="text-lg font-bold" style={{ fontFamily: 'Noto Serif, serif' }}>Extra Massage (10 min)</p>
-                        </div>
-                        <div className="flex-none text-right font-bold">
-                          <p className="text-lg" style={{ fontFamily: 'Noto Serif, serif' }}>$15</p>
                         </div>
                       </div>
                       <br></br>
